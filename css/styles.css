@@ -1,0 +1,21 @@
+body {
+    background-color: lightyellow;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    border: solid 5px;
+    border-color: chocolate;
+}
+
+.image {
+    padding-top: 100px;
+}
+
+.text {
+    text-transform: uppercase;
+    font-family: 'Libre Baskerville', serif;
+}
